@@ -1,34 +1,43 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-*This text will be italic*
-_This will also be italic_
+# Analysis for AE
+## 
+###### 
+```Rcript
+library(ANN2)
+library(NeuralNetTools)
+AE <- autoencoder(X, c(10,2,10), loss.type = 'pseudo-huber',
+                  activ.functions = c('tanh','linear','tanh'),
+                  batch.size = 8, optim.type = 'adam',
+                  n.epochs = 1000, val.prop = 0)
 
-**This text will be bold**
-__This will also be bold__
+# Plot loss during training
+summary(AE)
+compression_plot(AE,X)
+plot(AE)
+sort(recX$anomaly_scores, decreasing = TRUE)[1:5]
+AE_df<-recX$reconstructed
+rownames(AE_df)<-rownames(X)
+scico_palette_show()
+corrplot(cor(t(AE_df), method = 'spearman'), 
+         method = 'color', col = scico(n=100,palette = "davos",direction = -1),
+         number.cex = 0.3, tl.cex = 0.5, tl.col="black",
+         order = 'hclust', hclust.method = 'ward.D', addrect =3)
 
-_You **can** combine them_
+AE_pca <- PCA(AE_df, graph = FALSE)
+# Visualize
+# Use habillage to specify groups for coloring
+fviz_pca_ind(AE_pca,
+            #label = "none", # hide individual labels
+             habillage = dfcol$Group, # color by groups
+             palette = c("#00AFBB", "#E7B800", "#FC4E07"),
+             addEllipses = TRUE # Concentration ellipses
+)
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  ## http://github.com - automatic!
-[GitHub](http://github.com)
-I think you should use an
-`<addr>` element here instead.
+km.res <- kmeans(scale(AE_df),2, nstart = 25)
+fviz_cluster(km.res, data = AE_df,repel = T,labelsize = 4,
+             palette = c("#00AFBB", "#E7B800", "#FC4E07"),
+             ggtheme = theme_minimal(),
+             main = "Kmeans Clustering Plot"
+)
 
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
