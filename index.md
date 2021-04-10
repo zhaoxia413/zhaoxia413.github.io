@@ -84,7 +84,30 @@
 	</div><!-- /headerwrap -->
 	
 
-	
+	<!-- Downloads -->
+			<section id="one" class="main style2">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Analysis Documents</h2>
+							</header>
+							<p>
+							<a href="analysis/HFD_process.html">Processing (obtaining data and picking OTUs)</a><br>
+							<a href="analysis/HFD_diversity.html">Analysis of Alpha and Beta Diversity (with Lactococcus)</a><br>
+							<a href="analysis/HFD_diversity_nol.html">Analysis of Alpha and Beta Diversity (without Lactococcus)</a><br>
+							<a href="analysis/HFD_RFLODO.html">Leave-one-dataset-out cross validation of Random Forests</a><br>
+							<a href="analysis/HFD_features.html">Random Forest Analysis (with Lactococcus)</a><br>
+							<a href="analysis/HFD_features_nol.html">Random Forest Analysis (without Lactococcus)</a><br>
+							</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/rs.png" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
 	
 	<!-- ========== ABOUT SECTION ========== -->
 	<section id="about" name="about"></section>
