@@ -1,6 +1,7 @@
+<!DOCTYPE html>
+
 # Minoring the Clinical Outcome of Regorafenib/anti-PD1 Combination Treatment in mCRC Patients with Multi-omics assays
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -65,9 +66,9 @@
 			</div>
 			<br>
 			<div class="row">
-				<h1>MINIMAL THEME</h1>
+				<h1>Background</h1>
 				<br>
-				<h3>Hello, I'm Carlos. I love design.</h3>
+				<h3>This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer. 80mg regorafenib plus toripalimab was determined to be the maximum tolerated dose and recommended phase II dose (RP2D).</h3>
 				<br>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
@@ -77,9 +78,7 @@
 	</div><!-- /headerwrap -->
 	
 
-## Backgroud
-
-## Data and analysis	
+	
 	
 	<!-- ========== ABOUT SECTION ========== -->
 	<section id="about" name="about"></section>
@@ -147,7 +146,7 @@
 				
 				<div class="col-lg-6 col-lg-offset-3">
 					<p>Sun Yat-sen University Cancer Center<br/>Guangzhou, China<br/>+86-20-87343795</p>
-					<p>izhaoxia1@sysucc.org.cn</p>
+					<p>zhaoxia1@sysucc.org.cn</p>
 					<p><button type="button" class="btn btn-warning">YEAH! CONTACT ME NOW!</button></p>
 				</div>
 			</div>
