@@ -95,7 +95,7 @@
 								<h2>Processed Data Downloads</h2>
 							</header>
 							<p>
-							<a href="data/patient_seqInfo.csv">Sequencing summary fotr multiomics</a><br>
+							<a href="data/patient_seqInfo.csv">Sequencing summary for multiomics</a><br>
 							<a href="data/HFDotus.tar.gz">OTU tables (with Lactococcus)</a><br>
 							<a href="data/HFDotus_nol.tar.gz">OTU tables (without Lactococcus)</a><br>
 							<a href="data/HFDkos.tar.gz">KO tables (with Lactococcus)</a><br>
