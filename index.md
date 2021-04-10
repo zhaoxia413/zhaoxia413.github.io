@@ -121,7 +121,7 @@
 							</header>
 							<p>
 							<a href="analysis/HFD_process.html">Processing (obtaining data and picking OTUs)</a><br>
-							<a href="analysis/Artificial_Neural_networks.html">Analysis of Alpha and Beta Diversity (with Lactococcus)</a><br>
+							<a href="analysis/Artificial_Neural_networks.html"> AE analysis</a><br>
 							<a href="analysis/HFD_diversity_nol.html">Analysis of Alpha and Beta Diversity (without Lactococcus)</a><br>
 							<a href="analysis/HFD_RFLODO.html">Leave-one-dataset-out cross validation of Random Forests</a><br>
 							<a href="analysis/HFD_features.html">Random Forest Analysis (with Lactococcus)</a><br>
