@@ -145,8 +145,8 @@
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>Some Avenue, 987<br/>Madrid, Spain<br/>+34 8984-4343</p>
-					<p>iam@awesomemail.com</p>
+					<p>Sun Yat-sen University Cancer Center<br/>Guangzhou, China<br/>+86-20-87343795</p>
+					<p>izhaoxia1@sysucc.org.cn</p>
 					<p><button type="button" class="btn btn-warning">YEAH! CONTACT ME NOW!</button></p>
 				</div>
 			</div>
