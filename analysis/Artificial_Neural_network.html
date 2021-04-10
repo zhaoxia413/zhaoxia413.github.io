@@ -1,39 +1,15 @@
-<h1 id="this-is-an-h1-tag">This is an &lt;h1&gt; tag</h1>
-<h2 id="this-is-an-h2-tag">This is an &lt;h2&gt; tag</h2>
-<h6 id="this-is-an-h6-tag">This is an &lt;h6&gt; tag</h6>
-<p><em>This text will be italic</em><br><em>This will also be italic</em></p>
-<p><strong>This text will be bold</strong><br><strong>This will also be bold</strong></p>
-<p><em>You <strong>can</strong> combine them</em></p>
-<ul>
-<li>Item 1</li>
-<li>Item 2<ul>
-<li>Item 2a</li>
-<li>Item 2b<h2 id="http-github-com-automatic-"><a href="http://github.com">http://github.com</a> - automatic!</h2>
-<a href="http://github.com">GitHub</a><br>I think you should use an<br><code>&lt;addr&gt;</code> element here instead.</li>
-</ul>
-</li>
-</ul>
-<pre><code class="lang-javascript">function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:&#39;#foo&#39;})
-  }
-}
-</code></pre>
-<table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Content from cell 1</td>
-<td>Content from cell 2</td>
-</tr>
-<tr>
-<td>Content in the first column</td>
-<td>Content in the second column</td>
-</tr>
-</tbody>
-</table>
+<h1 id="analysis-for-ae">Analysis for AE</h1>
+<p>## </p>
+<p>######<br><code>`</code>Rcript<br>library(ANN2)<br>library(NeuralNetTools)<br>AE &lt;- autoencoder(X, c(10,2,10), loss.type = &#39;pseudo-huber&#39;,<br>                  activ.functions = c(&#39;tanh&#39;,&#39;linear&#39;,&#39;tanh&#39;),<br>                  batch.size = 8, optim.type = &#39;adam&#39;,<br>                  n.epochs = 1000, val.prop = 0)</p>
+<h1 id="plot-loss-during-training">Plot loss during training</h1>
+<p>summary(AE)<br>compression_plot(AE,X)<br>plot(AE)<br>sort(recX$anomaly_scores, decreasing = TRUE)[1:5]<br>AE_df&lt;-recX$reconstructed<br>rownames(AE_df)&lt;-rownames(X)<br>scico_palette_show()<br>corrplot(cor(t(AE_df), method = &#39;spearman&#39;),<br>         method = &#39;color&#39;, col = scico(n=100,palette = &quot;davos&quot;,direction = -1),<br>         number.cex = 0.3, tl.cex = 0.5, tl.col=&quot;black&quot;,<br>         order = &#39;hclust&#39;, hclust.method = &#39;ward.D&#39;, addrect =3)</p>
+<p>AE_pca &lt;- PCA(AE_df, graph = FALSE)</p>
+<h1 id="visualize">Visualize</h1>
+<h1 id="use-habillage-to-specify-groups-for-coloring">Use habillage to specify groups for coloring</h1>
+<p>fviz_pca_ind(AE_pca,</p>
+<pre><code>        #label = &quot;none&quot;, # hide individual labels
+         habillage = dfcol$Group, # color by groups
+         palette = c(&quot;#00AFBB&quot;, &quot;#E7B800&quot;, &quot;#FC4E07&quot;),
+         addEllipses = TRUE # Concentration ellipses
+</code></pre><p>)</p>
+<p>km.res &lt;- kmeans(scale(AE_df),2, nstart = 25)<br>fviz_cluster(km.res, data = AE_df,repel = T,labelsize = 4,<br>             palette = c(&quot;#00AFBB&quot;, &quot;#E7B800&quot;, &quot;#FC4E07&quot;),<br>             ggtheme = theme_minimal(),<br>             main = &quot;Kmeans Clustering Plot&quot;<br>)</p>
