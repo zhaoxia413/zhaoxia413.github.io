@@ -22,9 +22,6 @@
 	<script src="assets/js/modernizr.custom.js"></script>
 	
 
-## Backgroud
-
-## Data and analysis
 	
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
@@ -41,11 +38,11 @@
 	<!-- Menu -->
 	<nav class="menu" id="theMenu">
 		<div class="menu-wrap">
-			<h1 class="logo"><a href="index.html#home">Minimal</a></h1>
+			<h1 class="logo"><a href="index.html#home">Data and analysis</a></h1>
 			<i class="icon-remove menu-close"></i>
-			<a href="#home" class="smoothScroll">Home</a>
-			<a href="#about" class="smoothScroll">About</a>
-			<a href="#portfolio" class="smoothScroll">Portfolio</a>
+			<a href="#home" class="smoothScroll">Data</a>
+			<a href="#about" class="smoothScroll">Analysis</a>
+			<a href="#portfolio" class="smoothScroll">Soft</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
 			<a href="#"><i class="icon-facebook"></i></a>
 			<a href="#"><i class="icon-twitter"></i></a>
@@ -79,7 +76,10 @@
 		</div><!-- /container -->
 	</div><!-- /headerwrap -->
 	
-	
+
+## Backgroud
+
+## Data and analysis	
 	
 	<!-- ========== ABOUT SECTION ========== -->
 	<section id="about" name="about"></section>
