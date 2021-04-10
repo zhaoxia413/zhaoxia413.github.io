@@ -1,12 +1,15 @@
 <!DOCTYPE HTML>
+
+
+# Minoring the Clinical Outcome of Regorafenib/anti-PD1 Combination Treatment in mCRC Patients with Multi-omics assays
+
+
 <!--
 	Photon by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 
-
-# Minoring the Clinical Outcome of Regorafenib/anti-PD1 Combination Treatment in mCRC Patients with Multi-omics assays
 
 <html lang="en">
   <head>
@@ -83,14 +86,38 @@
 		</div><!-- /container -->
 	</div><!-- /headerwrap -->
 	
+		<!-- Download -->
+			<section id="one" class="main style1">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Processed Data Downloads</h2>
+							</header>
+							<p>
+							<a href="data/patient_seqInfo.csv">Sequencing summary fotr multiomics</a><br>
+							<a href="data/HFDotus.tar.gz">OTU tables (with Lactococcus)</a><br>
+							<a href="data/HFDotus_nol.tar.gz">OTU tables (without Lactococcus)</a><br>
+							<a href="data/HFDkos.tar.gz">KO tables (with Lactococcus)</a><br>
+							<a href="data/HFDkos_nol.tar.gz">KO tables (without Lactococcus)</a><br>
 
-	<!-- Downloads -->
+							</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/cml.png" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
+	<!-- Analysis -->
 			<section id="one" class="main style2">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
 							<header class="major">
-								<h2>Analysis Documents</h2>
+								<h2> Analysis Documents </h2>
 							</header>
 							<p>
 							<a href="analysis/HFD_process.html">Processing (obtaining data and picking OTUs)</a><br>
