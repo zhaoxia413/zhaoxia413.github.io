@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+	Photon by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
 
 # Minoring the Clinical Outcome of Regorafenib/anti-PD1 Combination Treatment in mCRC Patients with Multi-omics assays
 
