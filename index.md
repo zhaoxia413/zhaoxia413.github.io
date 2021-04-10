@@ -63,7 +63,7 @@
 	<div id="headerwrap">
 		<div class="container">
 			<div class="logo">
-				<img src="assets/img/logo.png">
+				<img src="images/AE_workflow_1.png">
 			</div>
 			<br>
 			<div class="row">
