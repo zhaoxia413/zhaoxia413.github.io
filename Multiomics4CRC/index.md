@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 
 
 # Minoring the Clinical Outcome of Regorafenib/anti-PD1 Combination Treatment in mCRC Patients with Multi-omics assays
