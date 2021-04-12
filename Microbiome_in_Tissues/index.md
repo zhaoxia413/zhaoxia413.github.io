@@ -156,16 +156,12 @@
 	<div id="f">
 		<div class="container">
 			<div class="row">
-				<h3>ABOUT ME</h3>
+				<h3>ABOUT US</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>The development of novel therapies such as immune checkpoint inhibitors has resulted in dramatic improve­ ments in the outcomes of many patients with cancer. However, outcomes are heterogeneous, with some patients achieving dramatic durable complete remissions, and others deriving no benefit at all. Beyond tumour­ intrinsic features that might predict response and drive resistance, there is increasing evidence that host (ie, patient) factors, including the microbiota, might influence response to therapy.</p>
-					<p>we assess the evidence for the role of the microbiota in the therapeutic response of cancer, outline the determinants of the microbiota and potential strategies and considerations for microbiota modulation, as well as highlight the complexities with this approach, and a potential path forward for cancer treatment.</p>
-					<p>Sometimes I blog about design and web trends. Also I share links and my thoughts on <a href="http://twitter.com/BlackTie_co">Twitter</a>. Need a free handsome bootstrap theme? <a href="http://blacktie.co">Done!</a></p>
-					<p>I'm available for freelance jobs. Contact me now.</p>
-					<p><button type="button" class="btn btn-warning">The role of microbiota in carcinogenesis</button></p>
+					<p><a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Prof. Rui-hua Xu’s Laboratory</a> belongs to the Department of Medical Oncology, <a href="http://english.sysucc.org.cn/index.aspx">Sun Yat-sen University</a> and State Key Laboratory of Oncology in South China.</p>
 				</div>								
 			</div>
 		</div><!-- /container -->
@@ -177,31 +173,23 @@
 	<div id="f">
 		<div class="container">
 			<div class="row centered">
-				<h3>SOME PROJECTS</h3>
+				<h3>Xu’s Lab is interested in:</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
 				<div class="col-lg-6 col-lg-offset-3">
 					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 						<!-- Wrapper for slides -->
-						<div class="carousel-inner">
-							<div class="item active centered">
-								<img class="img-responsive" src="assets/img/c1.png" alt="">
-							</div>
-							<div class="item centered">
-								<img class="img-responsive" src="assets/img/c2.png" alt="">
-							</div>
 							<div class="item centered">
 								<img class="img-responsive" src="assets/img/c3.png" alt="">
 							</div>
 						</div>
 						<br>
-						<br>
 						<ol class="carousel-indicators">
-						    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-						    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-						    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+						    <li data-target="#carousel-example-generic" data-slide-to="1" class="active">Finding novel molecular mechanisms of gastrointestinal cancer metastasis;</li>
+						    <li data-target="#carousel-example-generic" data-slide-to="2">Identifying potential diagnostic and prognostic biomarkers to guide individualized therapy for cancer patients;</li>
+						    <li data-target="#carousel-example-generic" data-slide-to="3">Developing new strategies to overcome drug resistance of cancer cells;</li>
+							 <li data-target="#carousel-example-generic" data-slide-to="4">Conducting clinical trials for developing optimal treatments for cancer patients.</li>
 						</ol>
-					</div>
 				</div><!-- col-lg-8 -->
 			</div><!-- row -->
 		</div><!-- container -->
@@ -215,10 +203,10 @@
 				<h3>CONTACT ME</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
-				<div class="col-lg-6 col-lg-offset-3">
+				<div class="w3-panel w3-ios-dark-blue">
 					<p>Sun Yat-sen University Cancer Center<br/>Guangzhou, China<br/>+86-20-87343795</p>
 					<p>zhaoxia1@sysucc.org.cn</p>
-					<p><button type="button" class="btn btn-warning">YEAH! CONTACT ME NOW!</button></p>
+					<p><button type="button" class="btn btn-warning">CONTACT ME NOW!</button></p>
 				</div>
 			</div>
 		</div>

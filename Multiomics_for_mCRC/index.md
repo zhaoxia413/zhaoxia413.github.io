@@ -9,7 +9,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -162,7 +161,7 @@
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p><a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Prof. Rui-hua Xu’s Laboratory</a></p> belongs to the Department of Medical Oncology, <a href="http://english.sysucc.org.cn/index.aspx">Sun Yat-sen University</a> and State Key Laboratory of Oncology in South China.</p>
+					<p><a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Prof. Rui-hua Xu’s Laboratory</a> belongs to the Department of Medical Oncology, <a href="http://english.sysucc.org.cn/index.aspx">Sun Yat-sen University</a> and State Key Laboratory of Oncology in South China.</p>
 				</div>								
 			</div>
 		</div><!-- /container -->
@@ -191,7 +190,6 @@
 						    <li data-target="#carousel-example-generic" data-slide-to="3">Developing new strategies to overcome drug resistance of cancer cells;</li>
 							 <li data-target="#carousel-example-generic" data-slide-to="4">Conducting clinical trials for developing optimal treatments for cancer patients.</li>
 						</ol>
-					</div>
 				</div><!-- col-lg-8 -->
 			</div><!-- row -->
 		</div><!-- container -->
@@ -208,7 +206,7 @@
 				<div class="w3-panel w3-ios-dark-blue">
 					<p>Sun Yat-sen University Cancer Center<br/>Guangzhou, China<br/>+86-20-87343795</p>
 					<p>zhaoxia1@sysucc.org.cn</p>
-					<p><button type="button" class="btn btn-warning">YEAH! CONTACT ME NOW!</button></p>
+					<p><button type="button" class="btn btn-warning">CONTACT ME NOW!</button></p>
 				</div>
 			</div>
 		</div>
