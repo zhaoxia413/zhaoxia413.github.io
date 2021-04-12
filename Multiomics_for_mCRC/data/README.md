@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# tables and data
+#Tables and data
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
