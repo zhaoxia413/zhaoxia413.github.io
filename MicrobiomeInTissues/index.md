@@ -70,20 +70,20 @@
 	<section id="home" name="home"></section>
 	<div id="headerwrap">
 		<div class="container">
-			<br>
 			<div class="row">
 				<h1>Background</h1>
 				<br>
 				<h3>Characterizing, visualizing and studying the effects that the bacteria inside tumors might have on different cancer hallmark </h3>
 				<br>
 				<div class="logo">
-				<img alt="" src="images/TumorMicrobiome.png" style="margin: 0 auto;" />
+				<img src="images/TumorMicrobiome.png" align="middle" />
 			</div>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
 				</div>
 			</div>
-		</div><!-- /container -->
+		</div>
+		<!-- /container -->
 	</div><!-- /headerwrap -->
 	
 		<!-- Download -->
@@ -93,8 +93,6 @@
 						<div class="col-6 col-12-medium">
 							<header class="major">
 								<h2>We are currently studying various aspects of the tumor microbiome.</h2>
-							</header>
-							<header class="major">
 								<h3>Some examples include:</h3>
 							</header>
 							<p>
