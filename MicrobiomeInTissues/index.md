@@ -47,7 +47,7 @@
 			<h1 class="logo"><a href="index.html#home">Our platform</a></h1>
 			<i class="icon-remove menu-close"></i>
 			<a href="#home" class="smoothScroll">Introduction</a>
-			<a href="#about" class="smoothScroll">Analysis documents</a>
+			<a href="#documents" class="smoothScroll">Analysis documents</a>
 			<a href="#Soft" class="smoothScroll">Analysis software</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
 			<a href="#"><i class="icon-facebook"></i></a>
@@ -107,7 +107,7 @@
 
 
 	<!-- Analysis -->
-			<section id="one" class="main style2">
+			<section id="documents" class="main style2">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
