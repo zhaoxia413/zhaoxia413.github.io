@@ -103,8 +103,8 @@
 			</section>
 
 
-	<!-- Analysis -->
-			<section id="documents" class="main style2">
+	<!-- SOFTWARE SECTION -->
+			<section id="software" class="main style2">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
@@ -112,15 +112,40 @@
 								<h2> Analysis Documents </h2>
 							</header>
 							<p>
-							<a href="analysis/HFD_process.html">Samples an sequencing </a><br>
-							<a href="analysis/Artificial_Neural_network.html">Response related features</a><br>
-							<a href="analysis/HFD_diversity_nol.html">PFS related features</a><br>
-							<a href="analysis/HFD_RFLODO.html">irAEs related features</a><br>
-							<a href="analysis/HFD_features.html">Autoencoder for multiomics</a><br>
+							<a href="https://www.drive5.com/usearch/">usearch v11</a><br>
+							<a href="https://github.com/bflammers/ANN2">ANN2</a><br>
+							<a href="https://github.com/cran/randomForest">randomForest</a><br>
+							<a href="https://topepo.github.io/caret/">caret</a><br>
+							<a href="https://github.com/therneau/survival">survival</a><br>
+							<a href="https://github.com/kassambara/survminer">survminer</a><br>
 							</p>
 						</div>
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="image fit"><img src="images/rs.png" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+	<!-- Software -->
+			<section id="data" class="main style1">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Processed Data Downloads</h2>
+							</header>
+							<p>
+							<a href="data/patient_seqInfo.csv">Sequencing summary for multiomics</a><br>
+							<a href="data/HFDotus.tar.gz">meta</a><br>
+							<a href="data/HFDotus_nol.tar.gz">OTU tables</a><br>
+							<a href="data/HFDotus_nol.tar.gz">PublicData</a><br>
+							<a href="data/HFDkos.tar.gz">Supplymentary</a><br>
+
+							</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/cml.png" alt="" /></span>
 						</div>
 					</div>
 				</div>
@@ -140,9 +165,9 @@
 					<p>Prof. Rui-hua Xu’s Laboratory belongs to the Department of Medical Oncology, Sun Yat-sen University Cancer Center and State Key Laboratory of Oncology in South China.</p>
 					<p>Xu’s Lab is interested in:</p>
 					<p>1) Finding novel molecular mechanisms of gastrointestinal cancer metastasis;
-					2) Identifying potential diagnostic and prognostic biomarkers to guide individualized therapy for cancer patients;
-					3) 3) Developing new strategies to overcome drug resistance of cancer cells;
-					4) 1) Conducting clinical trials for developing optimal treatments for cancer patients. <a href="http://english.sysucc.org.cn/index.aspx">Sun Yat-sen University</a>. Rui-hua Xu’s Laboratory <a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Done!</a></p>
+					1) Identifying potential diagnostic and prognostic biomarkers to guide individualized therapy for cancer patients;
+					2) 3) Developing new strategies to overcome drug resistance of cancer cells;
+					3) 1) Conducting clinical trials for developing optimal treatments for cancer patients. <a href="http://english.sysucc.org.cn/index.aspx">Sun Yat-sen University</a>. Rui-hua Xu’s Laboratory <a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Done!</a></p>
 					<p>Contact me now.</p>
 					<p><button type="button" class="btn btn-warning">Rui-hua Xu’s Laboratory</button></p>
 				</div>								
