@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 
 # Minoring the Clinical Outcome of Regorafenib/anti-PD1 Combination Treatment in mCRC Patients with Multi-omics assays
 
@@ -48,16 +47,13 @@
 	<!-- Menu -->
 	<nav class="menu" id="theMenu">
 		<div class="menu-wrap">
-			<h1 class="logo"><a href="index.html#home">Data and analysis</a></h1>
+			<h1 class="logo"><a href="index.html#home">Muti-omics assays</a></h1>
 			<i class="icon-remove menu-close"></i>
-			<a href="#home" class="smoothScroll">Data</a>
-			<a href="#about" class="smoothScroll">Analysis</a>
-			<a href="#portfolio" class="smoothScroll">Soft</a>
+			<a href="#introduction" class="smoothScroll">Introduction</a>
+			<a href="#data class="smoothScroll">Data</a>
+			<a href="#documents class="smoothScroll">Analysis</a>
+			<a href="#software" class="smoothScroll">Software</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
-			<a href="#"><i class="icon-facebook"></i></a>
-			<a href="#"><i class="icon-twitter"></i></a>
-			<a href="#"><i class="icon-dribbble"></i></a>
-			<a href="#"><i class="icon-envelope"></i></a>
 		</div>
 		
 		<!-- Menu button -->
@@ -67,17 +63,17 @@
 
 	
 	<!-- ========== HEADER SECTION ========== -->
-	<section id="home" name="home"></section>
+	<section id="introduction" name="home"></section>
 	<div id="headerwrap">
 		<div class="container">
 			<div class="logo">
-				<img src="images/AE_workflow_1.png">
 			</div>
 			<br>
 			<div class="row">
-				<h1>Background</h1>
+				<h1>Introduction</h1>
 				<br>
 				<h3>This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer. 80mg regorafenib plus toripalimab was determined to be the maximum tolerated dose and recommended phase II dose (RP2D).</h3>
+				<img src="images/AE_workflow_1.png">
 				<br>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
@@ -87,7 +83,7 @@
 	</div><!-- /headerwrap -->
 	
 		<!-- Download -->
-			<section id="one" class="main style1">
+			<section id="data" class="main style1">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
@@ -96,10 +92,10 @@
 							</header>
 							<p>
 							<a href="data/patient_seqInfo.csv">Sequencing summary for multiomics</a><br>
-							<a href="data/HFDotus.tar.gz">OTU tables (with Lactococcus)</a><br>
-							<a href="data/HFDotus_nol.tar.gz">OTU tables (without Lactococcus)</a><br>
-							<a href="data/HFDkos.tar.gz">KO tables (with Lactococcus)</a><br>
-							<a href="data/HFDkos_nol.tar.gz">KO tables (without Lactococcus)</a><br>
+							<a href="data/HFDotus.tar.gz">meta</a><br>
+							<a href="data/HFDotus_nol.tar.gz">OTU tables</a><br>
+							<a href="data/HFDotus_nol.tar.gz">PublicData</a><br>
+							<a href="data/HFDkos.tar.gz">Supplymentary</a><br>
 
 							</p>
 						</div>
@@ -112,7 +108,7 @@
 
 
 	<!-- Analysis -->
-			<section id="one" class="main style2">
+			<section id="documents" class="main style2">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
@@ -120,12 +116,11 @@
 								<h2> Analysis Documents </h2>
 							</header>
 							<p>
-							<a href="analysis/HFD_process.html">Processing (obtaining data and picking OTUs)</a><br>
-							<a href="analysis/Artificial_Neural_network.html">AE analysis</a><br>
-							<a href="analysis/HFD_diversity_nol.html">Analysisof Alpha and Beta Diversity (without Lactococcus)</a><br>
-							<a href="analysis/HFD_RFLODO.html">Leave-one-dataset-out cross validation of Random Forests</a><br>
-							<a href="analysis/HFD_features.html">Random Forest Analysis (with Lactococcus)</a><br>
-							<a href="analysis/HFD_features_nol.html">Random Forest Analysis (without Lactococcus)</a><br>
+							<a href="analysis/HFD_process.html">Samples an sequencing </a><br>
+							<a href="analysis/Artificial_Neural_network.html">Response related features</a><br>
+							<a href="analysis/HFD_diversity_nol.html">PFS related features</a><br>
+							<a href="analysis/HFD_RFLODO.html">irAEs related features</a><br>
+							<a href="analysis/HFD_features.html">Autoencoder for multiomics</a><br>
 							</p>
 						</div>
 						<div class="col-6 col-12-medium imp-medium">
