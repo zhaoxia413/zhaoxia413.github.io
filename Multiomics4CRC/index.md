@@ -69,7 +69,7 @@
 			<div class="row">
 				<h1>Introduction</h1>
 				<h3>This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer. 80mg regorafenib plus toripalimab was determined to be the maximum tolerated dose and recommended phase II dose (RP2D).</h3>
-				<span class="image fit"><img src="images/AE_workflow_1.png" alt=""></span>
+				<img src="images/AE_workflow_1.png" style="vertical-align:middle" alt="">
 				<br>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
