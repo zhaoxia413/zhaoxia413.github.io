@@ -10,7 +10,7 @@
 - name: Jekyll Theme
   gh_user: tzuehlke
   repo: jekyll-uno-timeline
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
+  img:  images/me.jpeg
   desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
 
 - name: Azure Automation Scripts
