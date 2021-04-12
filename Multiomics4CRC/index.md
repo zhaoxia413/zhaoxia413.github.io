@@ -51,7 +51,7 @@
 			<i class="icon-remove menu-close"></i>
 			<a href="#introduction" class="smoothScroll">Introduction</a>
 			<a href="#data" class="smoothScroll">Data</a>
-			<a href="#documents" class="smoothScroll">Analysis</a>
+			<a href="#documents" class="smoothScroll">Documents</a>
 			<a href="#software" class="smoothScroll">Software</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
 		</div>
@@ -66,10 +66,8 @@
 		<div class="container">
 			<div class="logo">
 			</div>
-			<br>
 			<div class="row">
 				<h1>Introduction</h1>
-				<br>
 				<h3>This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer. 80mg regorafenib plus toripalimab was determined to be the maximum tolerated dose and recommended phase II dose (RP2D).</h3>
 				<img src="images/AE_workflow_1.png">
 				<br>
@@ -193,7 +191,7 @@
 				<h3>CONTACT ME</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
-				<div class="col-lg-6 col-lg-offset-3">
+				<div class="w3-panel w3-ios-dark-blue">
 					<p>Sun Yat-sen University Cancer Center<br/>Guangzhou, China<br/>+86-20-87343795</p>
 					<p>zhaoxia1@sysucc.org.cn</p>
 					<p><button type="button" class="btn btn-warning">YEAH! CONTACT ME NOW!</button></p>
