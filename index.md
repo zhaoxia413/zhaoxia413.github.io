@@ -1,7 +1,7 @@
 
 
 
-# Minoring the Clinical Outcome of Regorafenib/anti-PD1 Combination Treatment in mCRC Patients with Multi-omics assays
+# Decoding the Microbiome for Clinical Success
 
 
 <!--
@@ -48,10 +48,10 @@
 	<!-- Menu -->
 	<nav class="menu" id="theMenu">
 		<div class="menu-wrap">
-			<h1 class="logo"><a href="index.html#home">Data and analysis</a></h1>
+			<h1 class="logo"><a href="index.html#home">Our platform</a></h1>
 			<i class="icon-remove menu-close"></i>
-			<a href="#home" class="smoothScroll">Data</a>
-			<a href="#about" class="smoothScroll">Analysis</a>
+			<a href="#home" class="smoothScroll">Projects</a>
+			<a href="#about" class="smoothScroll">Data and analysis</a>
 			<a href="#portfolio" class="smoothScroll">Soft</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
 			<a href="#"><i class="icon-facebook"></i></a>
@@ -77,7 +77,7 @@
 			<div class="row">
 				<h1>Background</h1>
 				<br>
-				<h3>This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer. 80mg regorafenib plus toripalimab was determined to be the maximum tolerated dose and recommended phase II dose (RP2D).</h3>
+				<h3>Although novel therapies, including immunotherapy, have dramatically improved outcomes for many patients with cancer, overall outcomes are heterogeneous and existing biomarkers do not reliably predict response. To date, predictors of response to cancer therapy have largely focused on tumour-intrinsic features; however, there is growing evidence that other host factors (eg, host genomics and the microbiome) can substantially affect therapeutic response. The microbiome, which refers to microbiota within a host and their collective genomes, is becoming increasingly recognised for its influence on host immunity, as well as therapeutic responses to cancer treatment. Importantly, microbiota can be modified via several different strategies, affording new angles in cancer treatment to improve outcomes. In this Review, we examine the evidence on the role of the microbiome in cancer and therapeutic response, factors that influence and shape host microbiota, strategies to modulate the microbiome, and present key unanswered questions to be addressed in ongoing and future research.</h3>
 				<br>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
@@ -146,11 +146,11 @@
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>A full time theme crafter based in Madrid, Spain. I love designing beautiful, clean and user-friendly interfaces for websites.</p>
-					<p>My passion is turning good ideas and products into eye-catching sites.</p>
+					<p>The development of novel therapies such as immune checkpoint inhibitors has resulted in dramatic improve­ ments in the outcomes of many patients with cancer. However, outcomes are heterogeneous, with some patients achieving dramatic durable complete remissions, and others deriving no benefit at all. Beyond tumour­ intrinsic features that might predict response and drive resistance, there is increasing evidence that host (ie, patient) factors, including the microbiota, might influence response to therapy.</p>
+					<p>we assess the evidence for the role of the microbiota in the therapeutic response of cancer, outline the determinants of the microbiota and potential strategies and considerations for microbiota modulation, as well as highlight the complexities with this approach, and a potential path forward for cancer treatment.</p>
 					<p>Sometimes I blog about design and web trends. Also I share links and my thoughts on <a href="http://twitter.com/BlackTie_co">Twitter</a>. Need a free handsome bootstrap theme? <a href="http://blacktie.co">Done!</a></p>
 					<p>I'm available for freelance jobs. Contact me now.</p>
-					<p><button type="button" class="btn btn-warning">I HAVE A FREELANCE JOB</button></p>
+					<p><button type="button" class="btn btn-warning">The role of microbiota in carcinogenesis</button></p>
 				</div>								
 			</div>
 		</div><!-- /container -->
