@@ -50,9 +50,9 @@
 		<div class="menu-wrap">
 			<h1 class="logo"><a href="index.html#home">Our platform</a></h1>
 			<i class="icon-remove menu-close"></i>
-			<a href="#home" class="smoothScroll">Projects</a>
-			<a href="#about" class="smoothScroll">Data and analysis</a>
-			<a href="#portfolio" class="smoothScroll">Soft</a>
+			<a href="#home" class="smoothScroll">Introduction</a>
+			<a href="#about" class="smoothScroll">Analysis documents</a>
+			<a href="#Soft" class="smoothScroll">Analysis software</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
 			<a href="#"><i class="icon-facebook"></i></a>
 			<a href="#"><i class="icon-twitter"></i></a>
@@ -69,7 +69,7 @@
 	<div id="headerwrap">
 		<div class="container">
 			<div class="row">
-				<h1>Background</h1>
+				<h1>Introduction</h1>
 				<br>
 				<h3>Characterizing, visualizing and studying the effects that the bacteria inside tumors might have on different cancer hallmark </h3>
 				<br>
@@ -133,12 +133,13 @@
 			</section>
 
 	<!-- Soft -->
+			<section id="Soft" name="Soft"></section>
 			<section id="one" class="main style2">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
 							<header class="major">
-								<h2> Analysis Documents </h2>
+								<h2> Analysis software </h2>
 							</header>
 							<p>
 							<a href="analysis/HFD_process.html">R packages</a><br>
