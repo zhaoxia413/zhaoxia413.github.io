@@ -51,7 +51,7 @@
 			<i class="icon-remove menu-close"></i>
 			<a href="#introduction" class="smoothScroll">Introduction</a>
 			<a href="#data" class="smoothScroll">Data</a>
-			<a href="#documents class="smoothScroll">Analysis</a>
+			<a href="#documents" class="smoothScroll">Analysis</a>
 			<a href="#software" class="smoothScroll">Software</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
 		</div>
@@ -60,7 +60,7 @@
 		<div id="menuToggle"><i class="icon-reorder"></i></div>
 	</nav>
 	
-	<!- === HEADER SECTION === ->
+	<!-- ========== HEADER SECTION ========== -->
 	<section id="introduction" name="home"></section>
 	<div id="headerwrap">
 		<div class="container">
