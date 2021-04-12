@@ -64,8 +64,6 @@
 		<div id="menuToggle"><i class="icon-reorder"></i></div>
 	</nav>
 
-
-	
 	<!-- ========== HEADER SECTION ========== -->
 	<section id="home" name="home"></section>
 	<div id="headerwrap">
@@ -84,7 +82,9 @@
 			</div>
 		</div>
 		<!-- /container -->
-	</div><!-- /headerwrap -->
+	</div>
+	
+	<!-- /headerwrap -->
 	
 		<!-- Download -->
 			<section id="one" class="main style1">
