@@ -1,7 +1,7 @@
 
 
 
-# MicrobiomeHarboredWithinTumors
+# Microbiome Harbored Within Tumors
 
 
 <!--
@@ -77,7 +77,7 @@
 				<h3>Characterizing, visualizing and studying the effects that the bacteria inside tumors might have on different cancer hallmark </h3>
 				<br>
 				<div class="logo">
-				<img src="images/TumorMicrobiome.png">
+				<img alt="" src="images/TumorMicrobiome.png" style="margin: 0 auto;" />
 			</div>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
