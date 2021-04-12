@@ -132,16 +132,19 @@
 	<div id="f">
 		<div class="container">
 			<div class="row">
-				<h3>ABOUT ME</h3>
+				<h3>ABOUT US</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>A full time theme crafter based in Madrid, Spain. I love designing beautiful, clean and user-friendly interfaces for websites.</p>
-					<p>My passion is turning good ideas and products into eye-catching sites.</p>
-					<p>Sometimes I blog about design and web trends. Also I share links and my thoughts on <a href="http://twitter.com/BlackTie_co">Twitter</a>. Need a free handsome bootstrap theme? <a href="http://blacktie.co">Done!</a></p>
-					<p>I'm available for freelance jobs. Contact me now.</p>
-					<p><button type="button" class="btn btn-warning">I HAVE A FREELANCE JOB</button></p>
+					<p>Prof. Rui-hua Xu’s Laboratory belongs to the Department of Medical Oncology, Sun Yat-sen University Cancer Center and State Key Laboratory of Oncology in South China.</p>
+					<p>Xu’s Lab is interested in:</p>
+					<p>1) Finding novel molecular mechanisms of gastrointestinal cancer metastasis;
+					2) Identifying potential diagnostic and prognostic biomarkers to guide individualized therapy for cancer patients;
+					3) 3) Developing new strategies to overcome drug resistance of cancer cells;
+					4) 1) Conducting clinical trials for developing optimal treatments for cancer patients. <a href="http://english.sysucc.org.cn/index.aspx">Sun Yat-sen University</a>. Rui-hua Xu’s Laboratory <a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Done!</a></p>
+					<p>Contact me now.</p>
+					<p><button type="button" class="btn btn-warning">Rui-hua Xu’s Laboratory</button></p>
 				</div>								
 			</div>
 		</div><!-- /container -->
@@ -153,7 +156,7 @@
 	<div id="f">
 		<div class="container">
 			<div class="row centered">
-				<h3>SOME PROJECTS</h3>
+				<h3>Rui-hua Xu’s Laboratory</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
 				<div class="col-lg-6 col-lg-offset-3">
@@ -170,7 +173,6 @@
 								<img class="img-responsive" src="assets/img/c3.png" alt="">
 							</div>
 						</div>
-						<br>
 						<br>
 						<ol class="carousel-indicators">
 						    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
