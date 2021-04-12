@@ -69,7 +69,7 @@
 			<div class="row">
 				<h1>Introduction</h1>
 				<h3>This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer. 80mg regorafenib plus toripalimab was determined to be the maximum tolerated dose and recommended phase II dose (RP2D).</h3>
-				<img src="images/AE_workflow_1.png">
+				<img src="images/AE_workflow_1.png" style="vertical-align:middle" alt="">
 				<br>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
@@ -103,8 +103,8 @@
 			</section>
 
 
-	<!-- Analysis -->
-			<section id="documents" class="main style2">
+	<!-- SOFTWARE SECTION -->
+			<section id="software" class="main style2">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
@@ -112,15 +112,40 @@
 								<h2> Analysis Documents </h2>
 							</header>
 							<p>
-							<a href="analysis/HFD_process.html">Samples an sequencing </a><br>
-							<a href="analysis/Artificial_Neural_network.html">Response related features</a><br>
-							<a href="analysis/HFD_diversity_nol.html">PFS related features</a><br>
-							<a href="analysis/HFD_RFLODO.html">irAEs related features</a><br>
-							<a href="analysis/HFD_features.html">Autoencoder for multiomics</a><br>
+							<a href="https://www.drive5.com/usearch/">usearch v11</a><br>
+							<a href="https://github.com/bflammers/ANN2">ANN2</a><br>
+							<a href="https://github.com/cran/randomForest">randomForest</a><br>
+							<a href="https://topepo.github.io/caret/">caret</a><br>
+							<a href="https://github.com/therneau/survival">survival</a><br>
+							<a href="https://github.com/kassambara/survminer">survminer</a><br>
 							</p>
 						</div>
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="image fit"><img src="images/rs.png" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+	<!-- Software -->
+			<section id="data" class="main style1">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Processed Data Downloads</h2>
+							</header>
+							<p>
+							<a href="data/patient_seqInfo.csv">Sequencing summary for multiomics</a><br>
+							<a href="data/HFDotus.tar.gz">meta</a><br>
+							<a href="data/HFDotus_nol.tar.gz">OTU tables</a><br>
+							<a href="data/HFDotus_nol.tar.gz">PublicData</a><br>
+							<a href="data/HFDkos.tar.gz">Supplymentary</a><br>
+
+							</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/cml.png" alt="" /></span>
 						</div>
 					</div>
 				</div>
@@ -132,16 +157,19 @@
 	<div id="f">
 		<div class="container">
 			<div class="row">
-				<h3>ABOUT ME</h3>
+				<h3>ABOUT US</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>A full time theme crafter based in Madrid, Spain. I love designing beautiful, clean and user-friendly interfaces for websites.</p>
-					<p>My passion is turning good ideas and products into eye-catching sites.</p>
-					<p>Sometimes I blog about design and web trends. Also I share links and my thoughts on <a href="http://twitter.com/BlackTie_co">Twitter</a>. Need a free handsome bootstrap theme? <a href="http://blacktie.co">Done!</a></p>
-					<p>I'm available for freelance jobs. Contact me now.</p>
-					<p><button type="button" class="btn btn-warning">I HAVE A FREELANCE JOB</button></p>
+					<p>Prof. Rui-hua Xu’s Laboratory belongs to the Department of Medical Oncology, Sun Yat-sen University Cancer Center and State Key Laboratory of Oncology in South China.</p>
+					<p>Xu’s Lab is interested in:</p>
+					<p>1) Finding novel molecular mechanisms of gastrointestinal cancer metastasis;
+					1) Identifying potential diagnostic and prognostic biomarkers to guide individualized therapy for cancer patients;
+					2) 3) Developing new strategies to overcome drug resistance of cancer cells;
+					3) 1) Conducting clinical trials for developing optimal treatments for cancer patients. <a href="http://english.sysucc.org.cn/index.aspx">Sun Yat-sen University</a>. Rui-hua Xu’s Laboratory <a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Done!</a></p>
+					<p>Contact me now.</p>
+					<p><button type="button" class="btn btn-warning">Rui-hua Xu’s Laboratory</button></p>
 				</div>								
 			</div>
 		</div><!-- /container -->
@@ -153,7 +181,7 @@
 	<div id="f">
 		<div class="container">
 			<div class="row centered">
-				<h3>SOME PROJECTS</h3>
+				<h3>Rui-hua Xu’s Laboratory</h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
 				<div class="col-lg-6 col-lg-offset-3">
@@ -170,7 +198,6 @@
 								<img class="img-responsive" src="assets/img/c3.png" alt="">
 							</div>
 						</div>
-						<br>
 						<br>
 						<ol class="carousel-indicators">
 						    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
