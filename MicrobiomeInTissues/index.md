@@ -86,7 +86,7 @@
 	
 	<!-- /headerwrap -->
 	
-		<!-- Download -->
+		<!-- Introduce -->
 			<section id="one" class="main style1">
 				<div class="container">
 					<div class="row gtr-150">
@@ -119,12 +119,10 @@
 								<h2> Analysis Documents </h2>
 							</header>
 							<p>
-							<a href="analysis/HFD_process.html">Processing (obtaining data and picking OTUs)</a><br>
-							<a href="analysis/Artificial_Neural_network.html">AE analysis</a><br>
-							<a href="analysis/HFD_diversity_nol.html">Analysisof Alpha and Beta Diversity (without Lactococcus)</a><br>
-							<a href="analysis/HFD_RFLODO.html">Leave-one-dataset-out cross validation of Random Forests</a><br>
-							<a href="analysis/HFD_features.html">Random Forest Analysis (with Lactococcus)</a><br>
-							<a href="analysis/HFD_features_nol.html">Random Forest Analysis (without Lactococcus)</a><br>
+							<a href="analysis/HFD_process.html">Obtaining data</a><br>
+							<a href="analysis/Artificial_Neural_network.html">16S rRNA data processing</a><br>
+							<a href="analysis/HFD_diversity_nol.html">Metagenome data processing</a><br>
+							<a href="analysis/HFD_RFLODO.html">Machine Learning</a><br>
 							</p>
 						</div>
 						<div class="col-6 col-12-medium imp-medium">
@@ -134,7 +132,28 @@
 				</div>
 			</section>
 
-	
+	<!-- Soft -->
+			<section id="one" class="main style2">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2> Analysis Documents </h2>
+							</header>
+							<p>
+							<a href="analysis/HFD_process.html">R packages</a><br>
+							<a href="analysis/Artificial_Neural_network.html">Python</a><br>
+							<a href="analysis/HFD_diversity_nol.html">Online</a><br>
+							</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/rs.png" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
 	<!-- ========== ABOUT SECTION ========== -->
 	<section id="about" name="about"></section>
 	<div id="f">
