@@ -1,3 +1,0 @@
-# rawdata
-
-source: `{{ page.path }}`

@@ -1,3 +1,0 @@
-# metadata
-
-source: `{{ page.path }}`
