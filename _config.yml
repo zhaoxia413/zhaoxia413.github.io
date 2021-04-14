@@ -1,21 +1,21 @@
 # Site settings
 title: SYSUCC_XiaZhao
-description: 'Business Card Page'
+description: 'Main Page'
 url: 'https://zhaoxia413.github.io/'
-baseurl: ''
+baseurl: 'https://zhaoxia413.github.io/'
 profilepic: '/images/me.jpeg'
 bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+# google_analytics: UA-XXXXXX-X
+font_awesome: 'brands.js'
 
 author:
   name: 'SYSUCC_XiaZhao'
   email: zhaoxia1@sysucc.org.cn
-  twitter_username: zhaoxia
+#   twitter_username: zhaoxia
 #  facebook_username: joshgerdes
   github_username:  zhaoxia413
-  linkedin_username:  zhaoxia413
-  meetup_name: zhaoxia413
+#   linkedin_username:  zhaoxia413
+#   meetup_name: zhaoxia413
 
 # Build settings
 destination: _site
