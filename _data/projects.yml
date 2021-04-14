@@ -3,13 +3,13 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: MutiOmics
   gh_user: zhaoxia413
-  repo: DebugContainer
+  repo: MultiOmics4CRC
   img: images/me.jpeg
   desc: This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer, ...
 
 - name: MITA
   gh_user: zhaoxia413
-  repo: jekyll-uno-timeline
+  repo: GSCALite
   img:  images/me.jpeg
   desc: MITA discrioption...
 
@@ -21,6 +21,6 @@
 
 - name: Github
   gh_user: zhaoxia413
-  repo: FaceApiWPF
+  repo: MicrobiomeStatPlot
   img: images/me.jpeg
   desc: My github. 

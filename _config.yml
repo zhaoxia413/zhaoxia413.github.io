@@ -5,8 +5,8 @@ url: 'https://zhaoxia413.github.io'
 baseurl: ''
 profilepic: '/images/me.jpeg'
 bkimage: '/images/mybk.jpeg'
-# google_analytics: UA-XXXXXX-X
-font_awesome: 'all.js'
+google_analytics: UA-12345-67
+font_awesome: 'fontawesome.js'
 
 author:
   name: 'SYSUCC_XiaZhao'
