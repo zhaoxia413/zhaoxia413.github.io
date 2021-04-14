@@ -9,13 +9,13 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'SYSUCC_XiaZhao'
+  email: zhaoxia1@sysucc.org.cn
+  twitter_username: zhaoxia
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  zhaoxia413
+  linkedin_username:  zhaoxia413
+  meetup_name: zhaoxia413
 
 # Build settings
 destination: _site
