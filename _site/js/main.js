@@ -33,7 +33,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== '/' && window.location.pathname !== '/index.html') {
+  if (window.location.pathname !== 'https://zhaoxia413.github.io//' && window.location.pathname !== 'https://zhaoxia413.github.io//index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
