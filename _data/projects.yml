@@ -1,11 +1,17 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: MutiOmics
+- name: MultiOmics4CRC
   gh_user: zhaoxia413
   repo: MultiOmics4CRC
   img: images/me.jpeg
   desc: This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer, ...
+
+- name: Metagenome
+  gh_user: zhaoxia413
+  repo: GSCALite
+  img:  images/me.jpeg
+  desc: Metagenome discrioption...
 
 - name: MITA
   gh_user: zhaoxia413
