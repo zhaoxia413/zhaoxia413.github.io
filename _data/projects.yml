@@ -7,26 +7,9 @@
   img: images/me.jpeg
   desc: This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer, ...
 
-- name: Metagenome
+- name: Metagenome_ICI
   gh_user: zhaoxia413
-  repo: GSCALite
-  img:  images/me.jpeg
-  desc: Metagenome discrioption...
+  repo: Metagenome_ICI
+  img:  images/Tumor_microbiome.jpeg
+  desc: Metagenome anaylsis discrioption...
 
-- name: MITA
-  gh_user: zhaoxia413
-  repo: GSCALite
-  img:  images/me.jpeg
-  desc: MITA discrioption...
-
-- name: TUMA
-  gh_user: zhaoxia413
-  repo: scripts
-  img: images/me.jpeg
-  desc: TUMA description.
-
-- name: Github
-  gh_user: zhaoxia413
-  repo: MicrobiomeStatPlot
-  img: images/me.jpeg
-  desc: My github. 
