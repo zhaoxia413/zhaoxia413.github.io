@@ -4,7 +4,7 @@
 - name: MultiOmics4CRC
   gh_user: zhaoxia413
   repo: MultiOmics4CRC
-  img: images/me.jpeg
+  img: images/CRC.jpeg
   desc: This is a phase Ib/II study of regorafenib plus toripalimab for metastatic colorectal cancer, ...
 
 - name: Metagenome_ICI
