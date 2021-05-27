@@ -19,3 +19,14 @@
   img:  images/VitaminC.jpeg
   desc: Discrioption...
 
+- name: DIO-R_microbiome
+  gh_user: zhaoxia413
+  repo: DIO-R_microbiome
+  img:  images/DIO-R.jpeg
+  desc: Diet-induced obesity resistant metagenome
+
+- name: ESCC_microbiome
+  gh_user: zhaoxia413
+  repo: DIO-R_microbiome
+  img:  images/ESCC.jpeg
+  desc: Diet-induced obesity resistant metagenome
