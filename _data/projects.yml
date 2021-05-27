@@ -30,3 +30,9 @@
   repo: DIO-R_microbiome
   img:  images/ESCC.jpeg
   desc: Esophageal squamous cell carcinoma microbiome
+
+- name: Diet_microbiome
+  gh_user: zhaoxia413
+  repo: DIO-R_microbiome
+  img:  images/diet.jpeg
+  desc: Human diet microbiome
